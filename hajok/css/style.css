@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #9b7fff;
+    font-family: 'Roboto Mono' !important;
+}
+
+.mainCont {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+    grid-gap: 10px;
+    align-items: center;
+    justify-items: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.specialTitle {
+	text-align: center;
+	color: #FFF;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	background-image: url(https://c.tenor.com/NiMp72x2l7MAAAAC/tenor.gif);
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 100px;
+}
+
+.grid-item {
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
+
+#schedule{
+    background-color: #783ec5;
+}
+
+/* ShapeDiv */
+
+.custom-shape-divider-top-1710145212 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1710145212 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 56px;
+}
+
+.custom-shape-divider-top-1710145212 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.custom-shape-divider-top-1710147454 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1710147454 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 102px;
+}
+
+.custom-shape-divider-top-1710147454 .shape-fill {
+    fill: #9B7FFF;
+}
+
+@media (max-width: 767px) {
+    .custom-shape-divider-top-1710147454 svg {
+        width: calc(100% + 1.3px);
+        height: 146px;
+    }
+}
+
+@media screen and (max-width: 600px)  {
+    body{
+        font-size: 15px;
+    }
+
+    .grid-item{
+        width: 300px;
+    }
+}
+
