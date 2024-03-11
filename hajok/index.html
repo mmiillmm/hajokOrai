@@ -28,11 +28,24 @@
     
     <h2>Találatok:</h2>
     <div class="talalatok">
-        <ul>
-            <li ng-repeat="talalat in renderHajok">
-                {{ talalat.jarat }}: {{ talalat.honnan }} &rarr; {{ talalat.hova }} (indul: {{talalat.indul}})
-            </li>
-        </ul>
+        <table>
+            <thead>
+                <th>Járat</th>
+                <th>Honnan</th>
+                <th>Hova</th>
+                <th>Indulás</th>
+                <th>Érkezés</th>
+            </thead>
+            <tbody>
+                <tr ng-repeat="talalat in renderHajok">
+                    <td>{{ talalat.jarat }}</td>
+                    <td>{{ talalat.honnan }}</td>
+                    <td>{{ talalat.hova }}</td>
+                    <td>{{talalat.indul}}</td>
+                    <td>{{ talalat.erkezik }}</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
     
     
