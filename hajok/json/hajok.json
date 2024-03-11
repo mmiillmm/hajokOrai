@@ -1,0 +1,810 @@
+[
+    {
+        "azon": "1",
+        "jarat": "A1",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonalm\u00e1di",
+        "indul": "09:30:00",
+        "erkezik": "10:30:00"
+    },
+    {
+        "azon": "2",
+        "jarat": "A2",
+        "honnan": "Balatonalm\u00e1di",
+        "hova": "Als\u00f3\u00f6rs",
+        "indul": "10:35:00",
+        "erkezik": "11:10:00"
+    },
+    {
+        "azon": "3",
+        "jarat": "A2",
+        "honnan": "Als\u00f3\u00f6rs",
+        "hova": "Csopak",
+        "indul": "11:10:00",
+        "erkezik": "11:40:00"
+    },
+    {
+        "azon": "4",
+        "jarat": "A2",
+        "honnan": "Csopak",
+        "hova": "Si\u00f3fok",
+        "indul": "11:40:00",
+        "erkezik": "12:20:00"
+    },
+    {
+        "azon": "5",
+        "jarat": "A3",
+        "honnan": "Si\u00f3fok",
+        "hova": "Csopak",
+        "indul": "16:00:00",
+        "erkezik": "16:45:00"
+    },
+    {
+        "azon": "6",
+        "jarat": "A3",
+        "honnan": "Csopak",
+        "hova": "Als\u00f3\u00f6rs",
+        "indul": "16:45:00",
+        "erkezik": "17:15:00"
+    },
+    {
+        "azon": "7",
+        "jarat": "A3",
+        "honnan": "Als\u00f3\u00f6rs",
+        "hova": "Balatonalm\u00e1di",
+        "indul": "17:15:00",
+        "erkezik": "17:45:00"
+    },
+    {
+        "azon": "8",
+        "jarat": "A4",
+        "honnan": "Balatonalm\u00e1di",
+        "hova": "Si\u00f3fok",
+        "indul": "17:50:00",
+        "erkezik": "18:50:00"
+    },
+    {
+        "azon": "9",
+        "jarat": "B1",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "R\u00e9vf\u00fcl\u00f6p",
+        "indul": "08:50:00",
+        "erkezik": "09:15:00"
+    },
+    {
+        "azon": "10",
+        "jarat": "B2",
+        "honnan": "R\u00e9vf\u00fcl\u00f6p",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "09:50:00",
+        "erkezik": "10:15:00"
+    },
+    {
+        "azon": "11",
+        "jarat": "B3",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "R\u00e9vf\u00fcl\u00f6p",
+        "indul": "10:30:00",
+        "erkezik": "10:55:00"
+    },
+    {
+        "azon": "12",
+        "jarat": "B4",
+        "honnan": "R\u00e9vf\u00fcl\u00f6p",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "11:15:00",
+        "erkezik": "11:40:00"
+    },
+    {
+        "azon": "13",
+        "jarat": "B5",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "R\u00e9vf\u00fcl\u00f6p",
+        "indul": "14:30:00",
+        "erkezik": "14:55:00"
+    },
+    {
+        "azon": "14",
+        "jarat": "B6",
+        "honnan": "R\u00e9vf\u00fcl\u00f6p",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "15:10:00",
+        "erkezik": "15:35:00"
+    },
+    {
+        "azon": "15",
+        "jarat": "B7",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "R\u00e9vf\u00fcl\u00f6p",
+        "indul": "17:30:00",
+        "erkezik": "17:55:00"
+    },
+    {
+        "azon": "16",
+        "jarat": "B8",
+        "honnan": "R\u00e9vf\u00fcl\u00f6p",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "18:30:00",
+        "erkezik": "18:55:00"
+    },
+    {
+        "azon": "17",
+        "jarat": "D1",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "10:00:00",
+        "erkezik": "11:00:00"
+    },
+    {
+        "azon": "18",
+        "jarat": "D1",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "11:00:00",
+        "erkezik": "11:20:00"
+    },
+    {
+        "azon": "19",
+        "jarat": "D2",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "11:30:00",
+        "erkezik": "11:55:00"
+    },
+    {
+        "azon": "20",
+        "jarat": "D2",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "11:55:00",
+        "erkezik": "12:45:00"
+    },
+    {
+        "azon": "21",
+        "jarat": "D3",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "13:00:00",
+        "erkezik": "14:00:00"
+    },
+    {
+        "azon": "22",
+        "jarat": "D3",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "14:00:00",
+        "erkezik": "14:20:00"
+    },
+    {
+        "azon": "23",
+        "jarat": "D4",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "16:30:00",
+        "erkezik": "17:00:00"
+    },
+    {
+        "azon": "24",
+        "jarat": "D4",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "17:00:00",
+        "erkezik": "17:50:00"
+    },
+    {
+        "azon": "25",
+        "jarat": "D5",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "18:00:00",
+        "erkezik": "18:50:00"
+    },
+    {
+        "azon": "26",
+        "jarat": "D6",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "19:00:00",
+        "erkezik": "19:50:00"
+    },
+    {
+        "azon": "27",
+        "jarat": "E1",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "09:00:00",
+        "erkezik": "10:00:00"
+    },
+    {
+        "azon": "28",
+        "jarat": "E1",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "10:00:00",
+        "erkezik": "10:20:00"
+    },
+    {
+        "azon": "29",
+        "jarat": "E2",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "10:30:00",
+        "erkezik": "11:00:00"
+    },
+    {
+        "azon": "30",
+        "jarat": "E2",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "11:00:00",
+        "erkezik": "11:50:00"
+    },
+    {
+        "azon": "31",
+        "jarat": "E3",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "12:00:00",
+        "erkezik": "13:00:00"
+    },
+    {
+        "azon": "32",
+        "jarat": "E3",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "13:00:00",
+        "erkezik": "13:20:00"
+    },
+    {
+        "azon": "33",
+        "jarat": "E4",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "14:30:00",
+        "erkezik": "15:00:00"
+    },
+    {
+        "azon": "34",
+        "jarat": "E4",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "15:00:00",
+        "erkezik": "15:50:00"
+    },
+    {
+        "azon": "35",
+        "jarat": "E5",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "16:00:00",
+        "erkezik": "17:00:00"
+    },
+    {
+        "azon": "36",
+        "jarat": "E5",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "17:00:00",
+        "erkezik": "17:20:00"
+    },
+    {
+        "azon": "37",
+        "jarat": "E6",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "17:30:00",
+        "erkezik": "18:00:00"
+    },
+    {
+        "azon": "38",
+        "jarat": "E6",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "18:00:00",
+        "erkezik": "18:50:00"
+    },
+    {
+        "azon": "39",
+        "jarat": "F1",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "08:15:00",
+        "erkezik": "08:45:00"
+    },
+    {
+        "azon": "40",
+        "jarat": "F10",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "15:30:00",
+        "erkezik": "16:00:00"
+    },
+    {
+        "azon": "41",
+        "jarat": "F11",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "16:15:00",
+        "erkezik": "16:45:00"
+    },
+    {
+        "azon": "42",
+        "jarat": "F12",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "17:00:00",
+        "erkezik": "17:30:00"
+    },
+    {
+        "azon": "43",
+        "jarat": "F13",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "17:45:00",
+        "erkezik": "18:15:00"
+    },
+    {
+        "azon": "44",
+        "jarat": "F14",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "18:30:00",
+        "erkezik": "19:00:00"
+    },
+    {
+        "azon": "45",
+        "jarat": "F2",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "09:00:00",
+        "erkezik": "09:30:00"
+    },
+    {
+        "azon": "46",
+        "jarat": "F3",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "10:00:00",
+        "erkezik": "10:30:00"
+    },
+    {
+        "azon": "47",
+        "jarat": "F4",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "10:45:00",
+        "erkezik": "11:15:00"
+    },
+    {
+        "azon": "48",
+        "jarat": "F5",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "11:30:00",
+        "erkezik": "12:00:00"
+    },
+    {
+        "azon": "49",
+        "jarat": "F6",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "12:15:00",
+        "erkezik": "12:45:00"
+    },
+    {
+        "azon": "50",
+        "jarat": "F7",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "13:15:00",
+        "erkezik": "13:45:00"
+    },
+    {
+        "azon": "51",
+        "jarat": "F8",
+        "honnan": "Badacsony",
+        "hova": "Fony\u00f3d",
+        "indul": "14:00:00",
+        "erkezik": "14:30:00"
+    },
+    {
+        "azon": "52",
+        "jarat": "F9",
+        "honnan": "Fony\u00f3d",
+        "hova": "Badacsony",
+        "indul": "14:45:00",
+        "erkezik": "15:15:00"
+    },
+    {
+        "azon": "53",
+        "jarat": "G1",
+        "honnan": "Balatonf\u00f6ldv\u00e1r",
+        "hova": "Balatonszemes",
+        "indul": "09:10:00",
+        "erkezik": "10:05:00"
+    },
+    {
+        "azon": "54",
+        "jarat": "G1",
+        "honnan": "Balatonszemes",
+        "hova": "Balatonlelle",
+        "indul": "10:05:00",
+        "erkezik": "10:45:00"
+    },
+    {
+        "azon": "55",
+        "jarat": "G1",
+        "honnan": "Balatonlelle",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "10:45:00",
+        "erkezik": "11:15:00"
+    },
+    {
+        "azon": "56",
+        "jarat": "G1",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "Badacsony",
+        "indul": "11:15:00",
+        "erkezik": "12:00:00"
+    },
+    {
+        "azon": "57",
+        "jarat": "G2",
+        "honnan": "Badacsony",
+        "hova": "Balatonbogl\u00e1r",
+        "indul": "16:00:00",
+        "erkezik": "16:55:00"
+    },
+    {
+        "azon": "58",
+        "jarat": "G2",
+        "honnan": "Balatonbogl\u00e1r",
+        "hova": "Balatonlelle",
+        "indul": "16:55:00",
+        "erkezik": "17:25:00"
+    },
+    {
+        "azon": "59",
+        "jarat": "G2",
+        "honnan": "Balatonlelle",
+        "hova": "Balatonszemes",
+        "indul": "17:25:00",
+        "erkezik": "18:05:00"
+    },
+    {
+        "azon": "60",
+        "jarat": "G2",
+        "honnan": "Balatonszemes",
+        "hova": "Balatonf\u00f6ldv\u00e1r",
+        "indul": "18:05:00",
+        "erkezik": "18:50:00"
+    },
+    {
+        "azon": "61",
+        "jarat": "J1",
+        "honnan": "Balatonkenese",
+        "hova": "Balatonalm\u00e1di",
+        "indul": "09:45:00",
+        "erkezik": "10:20:00"
+    },
+    {
+        "azon": "62",
+        "jarat": "J1",
+        "honnan": "Balatonalm\u00e1di",
+        "hova": "Als\u00f3\u00f6rs",
+        "indul": "10:20:00",
+        "erkezik": "10:55:00"
+    },
+    {
+        "azon": "63",
+        "jarat": "J1",
+        "honnan": "Als\u00f3\u00f6rs",
+        "hova": "Csopak",
+        "indul": "10:55:00",
+        "erkezik": "11:20:00"
+    },
+    {
+        "azon": "64",
+        "jarat": "J1",
+        "honnan": "Csopak",
+        "hova": "Balatonf\u00fcred",
+        "indul": "11:20:00",
+        "erkezik": "11:45:00"
+    },
+    {
+        "azon": "65",
+        "jarat": "J1",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "11:45:00",
+        "erkezik": "12:05:00"
+    },
+    {
+        "azon": "66",
+        "jarat": "J2",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "16:00:00",
+        "erkezik": "16:30:00"
+    },
+    {
+        "azon": "67",
+        "jarat": "J2",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Csopak",
+        "indul": "16:30:00",
+        "erkezik": "17:00:00"
+    },
+    {
+        "azon": "68",
+        "jarat": "J2",
+        "honnan": "Csopak",
+        "hova": "Als\u00f3\u00f6rs",
+        "indul": "17:00:00",
+        "erkezik": "17:30:00"
+    },
+    {
+        "azon": "69",
+        "jarat": "J2",
+        "honnan": "Als\u00f3\u00f6rs",
+        "hova": "Balatonalm\u00e1di",
+        "indul": "17:30:00",
+        "erkezik": "18:05:00"
+    },
+    {
+        "azon": "70",
+        "jarat": "J2",
+        "honnan": "Balatonalm\u00e1di",
+        "hova": "Balatonkenese",
+        "indul": "18:05:00",
+        "erkezik": "18:35:00"
+    },
+    {
+        "azon": "71",
+        "jarat": "K1",
+        "honnan": "Keszthely",
+        "hova": "Balatonm\u00e1ria",
+        "indul": "10:00:00",
+        "erkezik": "11:00:00"
+    },
+    {
+        "azon": "72",
+        "jarat": "K1",
+        "honnan": "Balatonm\u00e1ria",
+        "hova": "Balatongy\u00f6r\u00f6k",
+        "indul": "11:00:00",
+        "erkezik": "11:30:00"
+    },
+    {
+        "azon": "73",
+        "jarat": "K1",
+        "honnan": "Balatongy\u00f6r\u00f6k",
+        "hova": "Szigliget",
+        "indul": "11:30:00",
+        "erkezik": "12:15:00"
+    },
+    {
+        "azon": "74",
+        "jarat": "K1",
+        "honnan": "Szigliget",
+        "hova": "Badacsony",
+        "indul": "12:15:00",
+        "erkezik": "12:45:00"
+    },
+    {
+        "azon": "75",
+        "jarat": "K2",
+        "honnan": "Badacsony",
+        "hova": "Szigliget",
+        "indul": "16:00:00",
+        "erkezik": "16:35:00"
+    },
+    {
+        "azon": "76",
+        "jarat": "K2",
+        "honnan": "Szigliget",
+        "hova": "Balatongy\u00f6r\u00f6k",
+        "indul": "16:35:00",
+        "erkezik": "17:20:00"
+    },
+    {
+        "azon": "77",
+        "jarat": "K2",
+        "honnan": "Balatongy\u00f6r\u00f6k",
+        "hova": "Balatonm\u00e1ria",
+        "indul": "17:20:00",
+        "erkezik": "17:50:00"
+    },
+    {
+        "azon": "78",
+        "jarat": "K2",
+        "honnan": "Balatonm\u00e1ria",
+        "hova": "Keszthely",
+        "indul": "17:50:00",
+        "erkezik": "18:40:00"
+    },
+    {
+        "azon": "79",
+        "jarat": "L1",
+        "honnan": "Balatonf\u00f6ldv\u00e1r",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "08:45:00",
+        "erkezik": "09:05:00"
+    },
+    {
+        "azon": "80",
+        "jarat": "L1",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Tihany",
+        "indul": "09:05:00",
+        "erkezik": "09:30:00"
+    },
+    {
+        "azon": "81",
+        "jarat": "L1",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "09:30:00",
+        "erkezik": "10:00:00"
+    },
+    {
+        "azon": "82",
+        "jarat": "L1",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "10:00:00",
+        "erkezik": "10:50:00"
+    },
+    {
+        "azon": "83",
+        "jarat": "L2",
+        "honnan": "Si\u00f3fok",
+        "hova": "Tihany",
+        "indul": "11:00:00",
+        "erkezik": "11:50:00"
+    },
+    {
+        "azon": "84",
+        "jarat": "L3",
+        "honnan": "Tihany",
+        "hova": "Balatonf\u00fcred",
+        "indul": "13:00:00",
+        "erkezik": "13:30:00"
+    },
+    {
+        "azon": "85",
+        "jarat": "L3",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Si\u00f3fok",
+        "indul": "13:30:00",
+        "erkezik": "14:20:00"
+    },
+    {
+        "azon": "86",
+        "jarat": "L4",
+        "honnan": "Si\u00f3fok",
+        "hova": "Balatonf\u00fcred",
+        "indul": "15:00:00",
+        "erkezik": "16:00:00"
+    },
+    {
+        "azon": "87",
+        "jarat": "L4",
+        "honnan": "Balatonf\u00fcred",
+        "hova": "Tihany",
+        "indul": "16:00:00",
+        "erkezik": "16:30:00"
+    },
+    {
+        "azon": "88",
+        "jarat": "L4",
+        "honnan": "Tihany",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "16:30:00",
+        "erkezik": "16:50:00"
+    },
+    {
+        "azon": "89",
+        "jarat": "L4",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Balatonf\u00f6ldv\u00e1r",
+        "indul": "16:50:00",
+        "erkezik": "17:05:00"
+    },
+    {
+        "azon": "90",
+        "jarat": "M1",
+        "honnan": "Balatonf\u00f6ldv\u00e1r",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "10:30:00",
+        "erkezik": "10:50:00"
+    },
+    {
+        "azon": "91",
+        "jarat": "M1",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Tihany",
+        "indul": "10:50:00",
+        "erkezik": "11:05:00"
+    },
+    {
+        "azon": "92",
+        "jarat": "M2",
+        "honnan": "Tihany",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "12:15:00",
+        "erkezik": "12:35:00"
+    },
+    {
+        "azon": "93",
+        "jarat": "M2",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Balatonf\u00f6ldv\u00e1r",
+        "indul": "12:35:00",
+        "erkezik": "12:50:00"
+    },
+    {
+        "azon": "94",
+        "jarat": "M3",
+        "honnan": "Balatonf\u00f6ldv\u00e1r",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "13:05:00",
+        "erkezik": "13:25:00"
+    },
+    {
+        "azon": "95",
+        "jarat": "M3",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Tihany",
+        "indul": "13:25:00",
+        "erkezik": "13:40:00"
+    },
+    {
+        "azon": "96",
+        "jarat": "M4",
+        "honnan": "Tihany",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "14:30:00",
+        "erkezik": "14:50:00"
+    },
+    {
+        "azon": "97",
+        "jarat": "M4",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Balatonf\u00f6ldv\u00e1r",
+        "indul": "14:50:00",
+        "erkezik": "15:05:00"
+    },
+    {
+        "azon": "98",
+        "jarat": "M5",
+        "honnan": "Balatonf\u00f6ldv\u00e1r",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "15:20:00",
+        "erkezik": "15:40:00"
+    },
+    {
+        "azon": "99",
+        "jarat": "M5",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Tihany",
+        "indul": "15:40:00",
+        "erkezik": "15:55:00"
+    },
+    {
+        "azon": "100",
+        "jarat": "M6",
+        "honnan": "Tihany",
+        "hova": "Tihanyr\u00e9v",
+        "indul": "17:30:00",
+        "erkezik": "17:50:00"
+    },
+    {
+        "azon": "101",
+        "jarat": "M6",
+        "honnan": "Tihanyr\u00e9v",
+        "hova": "Balatonf\u00f6ldv\u00e1r",
+        "indul": "17:50:00",
+        "erkezik": "18:05:00"
+    }
+]

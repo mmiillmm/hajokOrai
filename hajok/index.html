@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="hajoApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="script/script.js"></script>
+    <style>
+        body {
+            background-color: rgb(27, 27, 27);
+            color: white;
+        }
+        </style>
+</head>
+<body ng-controller="hajoController">
+    <form id="searchForm" ng-model="szures">
+        <label for="honnan">Honnan</label>
+        <select name="honnan" ng-model="ut_honnan" ng-options="hely for hely in helyekHonnan"></select>
+        
+        <label for="hova">Hova</label>
+        <select name="hova" ng-model="ut_hova" ng-options="hely for hely in helyekHova"></select>
+        <br>
+        <label for="ido">Idő</label>
+        <input type="time" name="ido" ng-model="ut_ido">
+        
+    </form>
+    
+    <h2>Találatok:</h2>
+    <div class="talalatok">
+        <ul>
+            <li ng-repeat="talalat in renderHajok">
+                {{ talalat.jarat }}: {{ talalat.honnan }} &rarr; {{ talalat.hova }} (indul: {{talalat.indul}})
+            </li>
+        </ul>
+    </div>
+    
+    
+    
+</body>
+</html>
